@@ -1,0 +1,26 @@
+CITY,TEMPERATURE ,HUMIDITY,WIND SPEED
+Mumbai,32,75,5
+Delhi,20,50,4.5
+Bangalore,24,60,3.5
+Hyderabad,26,65,4
+Chennai,30,80,4.8
+Kolkata,28,85,4.2
+Jaipur,22,40,3.8
+Pune,25,55,3.2
+Ahmedabad,27,30,4.1
+Surat,29,70,4.5
+Lucknow,18,55,3
+Kanpur,20,60,3.5
+Patna,22,65,3.8
+Surat,26,70,4
+Udaipur,21,50,3.7
+Agra,19,45,4.2
+Varanasi,21,50,3.6
+Darjeeling,15,65,3
+Dehradun,18,60,3.5
+Shimla,14,70,2.8
+Goa,30,75,4.5
+Leh,8,30,2
+Manali,10,50,2.5
+Siliguri,25,80,3.8
+Rishikesh,20,55,3.2
